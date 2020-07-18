@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bg.wav</file>
+        <file>res/bomb.wav</file>
+        <file>res/bomb-1.png</file>
+        <file>res/bomb-2.png</file>
+        <file>res/bomb-3.png</file>
+        <file>res/bomb-4.png</file>
+        <file>res/bomb-5.png</file>
+        <file>res/bomb-6.png</file>
+        <file>res/bomb-7.png</file>
+        <file>res/bullet_9.png</file>
+        <file>res/bullet_11.png</file>
+        <file>res/game.ico</file>
+        <file>res/help.jpg</file>
+        <file>res/hero.png</file>
+        <file>res/hero2.png</file>
+        <file>res/img_bg_level_1.jpg</file>
+        <file>res/img-plane_3.png</file>
+        <file>res/img-plane_5.png</file>
+        <file>res/mainscence.jpg</file>
+    </qresource>
+</RCC>
